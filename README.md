@@ -1,1 +1,1 @@
-This is my personal readme file for my Github page. I am currently a full-Stack Developer learning Blockchain. My focus is on Web3 and Dapp's currently. Check out some of my recent projects in my repositories! Thanks for stopping by! 
+This is my personal readme file for my Github page. I am currently a full-Stack Developer learning Blockchain. My focus is on Web3 and Dapp's currently. Check out some of my recent projects in my repositories. I'm trying to get my repositorities lined up for viewing by different individuals. Thanks for stopping by! availablestreams.com
